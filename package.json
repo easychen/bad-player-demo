@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "griffith": "^1.1.1",
+    "griffith-hls": "^1.1.1",
+    "griffith-mp4": "^1.1.1",
+    "hls.js": "^0.12.4",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "2.1.8"
